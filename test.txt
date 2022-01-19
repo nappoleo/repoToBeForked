@@ -28,5 +28,6 @@ testMain2
 Dogs3
 Dogs4
 Dogs5
+Dogs6
 
 
