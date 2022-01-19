@@ -6,4 +6,5 @@ test5
 test6
 test7
 testMain1
+testMain2
 
