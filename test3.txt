@@ -20,6 +20,7 @@ test100
 test200
 test300
 animals10
+animals20
+animals30
 testMain3
-
 
