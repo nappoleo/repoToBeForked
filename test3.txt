@@ -7,6 +7,9 @@ test8
 test9
 test10
 testMain1
+test10
+test20
+test30
 
 
 
