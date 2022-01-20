@@ -21,3 +21,4 @@ animals20
 testMain3
 test1000
 test2000
+animals10
