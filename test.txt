@@ -32,5 +32,7 @@ Dogs6
 testMain3
 test100
 test200
+animals10
+animals20
 
 
